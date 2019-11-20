@@ -1,0 +1,78 @@
+<html>
+<title>My Schendule</title>
+
+<body>
+
+<table>
+
+</table>
+<caption><h2>Mr. Chan's 2019-20 Semester 1 Schecdule</h2></caption>
+<tr> <--!tr=table row-->
+<th>Period</th>
+<th>Time</hr>
+<th>Class</hr>
+<th>Teacher/Room</hr>
+</tr>
+
+<tr>
+<td rowspan=2>1</td>
+<td rowspan=2>7:20-8:10</td>
+<td rowspan=2>Honor biology</td>
+<td>Mrs Russel</td>
+</tr>
+<tr>
+<td>SE 224</td>
+</tr>
+<tr>
+<td rowspan=2>2</td>
+<td rowspan=2>8:15-9:05</td>
+<td rowspan=2>Honor Geometry</td>
+<td>Mr Taylor</td>
+</tr>
+<tr>
+<td>SE 224</td>
+</tr>
+
+<tr>
+<td rowspan=2>3</td>
+<td rowspan=2>9:4--8:10</td>
+<td rowspan=2>English</td>
+<td>Mr Moliter</td>
+</tr>
+<tr>
+<td>SE 224</td>
+</tr>
+
+<tr>
+<td rowspan=2>4</td>
+<td rowspan=2>7:20-8:10</td>
+<td rowspan=2>Band</td>
+<td>Mr Onishi</td>
+</tr>
+<tr>
+<td>SE 224</td>
+</tr>
+
+<tr>
+<td rowspan=2>5</td>
+<td rowspan=2>7:20-8:10</td>
+<td rowspan=2>P.E</td>
+<td>Mrs Kellogg</td>
+</tr>
+<tr>
+<td>SE 224</td>
+</tr>
+
+<tr>
+<td rowspan=2>6</td>
+<td rowspan=2>7:20-8:10</td>
+<td rowspan=2>Computer sciences</td>
+<td>Mr Chan</td>
+</tr>
+<tr>
+<td>SE 224</td>
+</tr>
+
+</body>
+
+</html>
