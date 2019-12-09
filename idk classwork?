@@ -1,0 +1,30 @@
+<html class="gr__CoonerX_github_io"><head><title>Conners First Website</title>
+ <script type="text/javascript" src="chrome-extension://hjngolefdpdnooamgdldlkjgmdcmcjnc/content/mathJaxBundle.js"></script></head><body bgcolor="white" data-gr-c-s-loaded="true">
+ <h1>Hello World!</h1>
+   <hr>
+  <p>Welcome to my web page! This is the first example from class. I hope you like t. 
+ 
+
+  </p><p><a href="Lists.html">Here</a> is a page with some different lists.
+   This is my <a href="schedule.html">Schedule</a> 
+  
+  </p><p>Here's another paragraph. 
+       I typed this line without another paragraph tag, so it should appear right next to the pervious sentence. The webpage doesn't preserve the same spacing. It formats according to the tag it sees.
+  so the line
+       breaks
+       are
+       different
+       from the
+       source
+       also. <b>Go Hawks</b> </p><p>But here's a <i>new</i> paragraph.
+   <br><br><br>And a couple more blank lines afterward...
+  </p><p>Here is information about the Seattle Seahawks. <a href="https://www.cbssports.com/nfl/news/seahawks-49ers-coin-toss-controversy-pete-carroll-geno-smith-add-to-the-confusion-about-what-was-called/>Seahawks" <="" a="">
+   </a></p><hr><a href="https://www.cbssports.com/nfl/news/seahawks-49ers-coin-toss-controversy-pete-carroll-geno-smith-add-to-the-confusion-about-what-was-called/>Seahawks" <="" a=""> 
+    </a><a href="hawks.jpeg">
+  <img src="hawks.jpeg" width="100">      </a><center><a href="hawks.jpeg">&lt;"hawks.jpeg"&gt;
+   </a>
+   (c) 2019. All rights reserved.
+ 
+ 
+ 
+</center></body></html>
