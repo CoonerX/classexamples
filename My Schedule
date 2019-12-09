@@ -1,78 +1,79 @@
-<html>
-<title>My Schendule</title>
+<html class="gr__CoonerX_github_io"><head><title> My Schedule</title>
+<script type="text/javascript" src="chrome-extension://hjngolefdpdnooamgdldlkjgmdcmcjnc/content/mathJaxBundle.js"></script></head><body data-gr-c-s-loaded="true">
+<table border="1px">
+ <caption><h2>Conners's 2019-2020 Semester 1 Schedule</h2></caption>
+ <tbody><tr bgcolor="yellow"> <!-- = table row -->
+  <th>Period</th> <!-- th = table heading -->
+  <th>Time</th>
+  <th>Teacher/Room</th>
+ </tr>
+  
+ <tr>
+  <td rowspan="2">1</td> <!-- td = table data -->
+  <td rowspan="2">7:20-8:10</td>
+  <td rowspan="2">Honors Biology </td>
+  <td><Mrs. russel<="" td="">
+ </mrs.></td></tr>
+ <tr>
+  <td bgcolor="orange">SE 220</td>
+ </tr>
+  
+ <tr>
+  <td rowspan="2">2</td> <!-- td = table data -->
+  <td rowspan="2">8:15-9:05</td>
+  <td rowspan="2">Honors Geometry </td>
+  <td><Mr. taylor<="" td="">
+ </mr.></td></tr>
+ <tr>
+  <td bgcolor="blue">SE 220</td>
+ </tr>
+  
+ <tr>
+  <td rowspan="2">3</td> <!-- td = table data -->
+  <td rowspan="2">9:40-10:30</td>
+  <td rowspan="2">English </td>
+  <td><Mr Moliter<="" td="">
+ </mr.></td></tr>
+ <tr>
+  <td bgcolor="green">SE 220</td>
+ </tr>
+  
+ 
+ <tr>
+  <td rowspan="2">4</td> <!-- td = table data -->
+  <td rowspan="2">10:35-11:25</td>
+  <td rowspan="2">Band </td>
+  <td><Mrs. Stevens<="" td="">
+ </mrs.></td></tr>
+ <tr>
+  <td bgcolor="red">SE 220</td>
+ </tr>
+  
+ 
+ <tr>
+  <td rowspan="2">5</td> <!-- td = table data -->
+  <td rowspan="2">12:05-12:55</td>
+  <td rowspan="2">P.E </td>
+  <td><Mrs. kellog<="" td="">
+ </mrs.></td></tr>
+ <tr>
+  <td bgcolor="yellow">SE 220</td>
+ </tr>
+  
+ 
+ <tr>
+  <td rowspan="2">6</td> <!-- td = table data -->
+  <td rowspan="2">1:00-1:50</td>
+  <td rowspan="2">Computer Science </td>
+  <td><mr. chan<="" td="">
+ </mrs.></td></tr>
+ <tr>
+  <td bgcolor="blue">SE 220</td>
+ </tr>
+  
 
-<body>
+  
+</tbody></table>
 
-<table>
 
-</table>
-<caption><h2>Mr. Chan's 2019-20 Semester 1 Schecdule</h2></caption>
-<tr> <--!tr=table row-->
-<th>Period</th>
-<th>Time</hr>
-<th>Class</hr>
-<th>Teacher/Room</hr>
-</tr>
-
-<tr>
-<td rowspan=2>1</td>
-<td rowspan=2>7:20-8:10</td>
-<td rowspan=2>Honor biology</td>
-<td>Mrs Russel</td>
-</tr>
-<tr>
-<td>SE 224</td>
-</tr>
-<tr>
-<td rowspan=2>2</td>
-<td rowspan=2>8:15-9:05</td>
-<td rowspan=2>Honor Geometry</td>
-<td>Mr Taylor</td>
-</tr>
-<tr>
-<td>SE 224</td>
-</tr>
-
-<tr>
-<td rowspan=2>3</td>
-<td rowspan=2>9:4--8:10</td>
-<td rowspan=2>English</td>
-<td>Mr Moliter</td>
-</tr>
-<tr>
-<td>SE 224</td>
-</tr>
-
-<tr>
-<td rowspan=2>4</td>
-<td rowspan=2>7:20-8:10</td>
-<td rowspan=2>Band</td>
-<td>Mr Onishi</td>
-</tr>
-<tr>
-<td>SE 224</td>
-</tr>
-
-<tr>
-<td rowspan=2>5</td>
-<td rowspan=2>7:20-8:10</td>
-<td rowspan=2>P.E</td>
-<td>Mrs Kellogg</td>
-</tr>
-<tr>
-<td>SE 224</td>
-</tr>
-
-<tr>
-<td rowspan=2>6</td>
-<td rowspan=2>7:20-8:10</td>
-<td rowspan=2>Computer sciences</td>
-<td>Mr Chan</td>
-</tr>
-<tr>
-<td>SE 224</td>
-</tr>
-
-</body>
-
-</html>
+</body></html>
